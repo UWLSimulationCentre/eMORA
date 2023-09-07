@@ -2,7 +2,6 @@
 ![](https://camo.githubusercontent.com/329ec7ff9e02aa4d3ecb0c491b967676c87f9db43d197a0010990e211ae24925/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f776572656425323062792d4a656b796c6c2d626c75652e737667)
 ![](https://img.shields.io/github/contributors/UWLSimulationCentre/eMORA) 
 ![](https://img.shields.io/github/last-commit/UWLSimulationCentre/eMORA) 
-![](https://img.shields.io/github/languages/top/UWLSimulationCentre/eMORA) 
 ![](https://img.shields.io/github/issues/UWLSimulationCentre/eMORA) 
 ![](https://img.shields.io/website?url=https%3A%2F%2Fuwlsimulationcentre.github.io%2FeMORA%2F&label=Project%20Status)
 
