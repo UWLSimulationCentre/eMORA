@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased](https://github.com/UWLSimulationCentre/eMORA/compare/...HEAD)
 
 ### Added
+- ...
+
+## [eMORA ILP 1.0.1](https://github.com/UWLSimulationCentre/eMORA/releases/tag/eMORA-ILP-1.0.1) - 2023-09-07
+
+### Added
 
 - SECURITY.md [`17e6792`](https://github.com/UWLSimulationCentre/eMORA/commit/17e67928724e9a1e18fb8677dfdc558ac24f4137)
 - Implemented Dependabot [`15f3dbf`](https://github.com/UWLSimulationCentre/eMORA/commit/15f3dbfaa2235f8a25e59e72ed78db57cff97e5b)
